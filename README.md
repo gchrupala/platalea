@@ -1,3 +1,5 @@
+REPO archived: use https://github.com/spokenlanguage/platalea instead.
+
 # Platalea
 Understanding visually grounded spoken language via multi-tasking
 
